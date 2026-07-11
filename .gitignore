@@ -3,7 +3,6 @@
 Thumbs.db
 
 # Editor files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -12,3 +11,4 @@ Thumbs.db
 __pycache__/
 *.pyc
 node_modules/
+config.bat
